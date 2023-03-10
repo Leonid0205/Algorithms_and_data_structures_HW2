@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Реализовать алгоритм пирамидальной сортировки (HeapSort)
 
-public class HW12 {
+public class HW2 {
     /** Function creates an array
     * @param size a size of an array
     */  
